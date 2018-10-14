@@ -1,0 +1,12 @@
+.singleCell {
+  width: 200px;
+  height: 200px;
+  text-align: center;
+  font-size: 6rem;
+  font-weight: 600;
+}
+
+h2#message {
+  padding-top: 50px;
+  margin-top: 50px;
+}
